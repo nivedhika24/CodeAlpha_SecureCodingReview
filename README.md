@@ -14,6 +14,9 @@ The project demonstrates a secure coding review of a Python-based Login Applicat
 - Windows
 
 
+## Project Structure
+
+```text
 CodeAlpha_SecureCodingReview
 ├── login_app.py
 ├── secure_login_app.py
