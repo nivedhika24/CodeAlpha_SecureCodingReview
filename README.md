@@ -13,7 +13,6 @@ The project demonstrates a secure coding review of a Python-based Login Applicat
 - Visual Studio Code
 - Windows
 
-
 ## Project Structure
 
 ```text
@@ -21,7 +20,7 @@ CodeAlpha_SecureCodingReview
 ├── login_app.py
 ├── secure_login_app.py
 └── README.md
-
+```
 ## Vulnerable Application
 
 The initial application contained intentional security weaknesses for the purpose of security testing.
