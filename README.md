@@ -13,7 +13,6 @@ The project demonstrates a secure coding review of a Python-based Login Applicat
 - Visual Studio Code
 - Windows
 
-## Project Structure
 
 CodeAlpha_SecureCodingReview
 ├── login_app.py
